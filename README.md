@@ -7,6 +7,7 @@
 <li><a href="https://pub.dev/packages/dio" rel="nofollow">Dio: </a> Para fazer requisições HTTP.</li>
 <li><a href="https://refactoring.guru/design-patterns/state" rel="nofollow">State_pattern: </a> Um design pattern de criação de states para telas.</li>
 <li><a href="https://renicius-pagotto.medium.com/entendendo-o-repository-pattern-fcdd0c36b63b" rel="nofollow">Reposository_pattern: </a> Um design pattern de organanização.</li>
+<li><a href="https://pub.dev/documentation/hive/latest/" rel="nofollow">Hive: </a> Para utilização de banco de dados local.</li>
 <li>ValueNotifier: Como gerência de estado.</li>
 </ul>
 
