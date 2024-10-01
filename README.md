@@ -1,16 +1,11 @@
 # sti3_app
 
-A new Flutter project.
+<h1>Tecnologias e Pacotes Utilizados</h1>
 
-## Getting Started
+<a href="https://pub.dev/packages/provider" rel="nofollow">Provider: </a> Para injeção de dependências.
+<a href="https://pub.dev/packages/get_it" rel="nofollow">Get It: </a> Para injeção de dependências(somente um exemplo).
+<a href="https://pub.dev/packages/dio" rel="nofollow">Dio: </a> Para fazer requisições HTTP.
+<a href="https://refactoring.guru/design-patterns/state" rel="nofollow">State_pattern: </a> Um design pattern de criação de states para telas.
+<a href="https://renicius-pagotto.medium.com/entendendo-o-repository-pattern-fcdd0c36b63b" rel="nofollow">Reposository_pattern:: </a> Um design pattern de organanização.
+ValueNotifier: Como gerência de estado.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
